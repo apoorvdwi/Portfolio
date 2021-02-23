@@ -1,11 +1,11 @@
 ---
 date: '2021-02-01'
 title: 'Web Developer'
-company: 'Hackon Foundation'
+company: 'HackOn Foundation'
 location: 'Delhi, India'
-navbar: 'Hackon (Core Team)'
-range: 'January - Present'
+navbar: 'HackOn (Core Team)'
+range: 'January 2021 - Present'
 url: 'https://www.linkedin.com/company/hackonhackathon/'
 ---
 
-- Part of hackon 2.0 web team. My role involves creating [official website](https://hackon.tech) for hackon 2.0 using Nuxt.js according to prepared UI/UX.
+- Part of HackOn 2.0 web team. My role involves creating [official website](https://hackon.tech) for HackOn 2.0 using Nuxt.js according to prepared UI/UX.

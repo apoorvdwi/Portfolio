@@ -17,6 +17,6 @@ Hello! I'm Apoorv, a CSE Undergraduate from MAIT, Delhi.
 
 I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between.
 
-I have been working with a startup named [Rahee](https://raahee.in) as a React development Intern where I worked on the website and admin portal for the same.
+I have been working with a startup named [Raahee](https://raahee.in) as a React Development Intern where I worked on the Website and an Internal Product for the same.
 
 Here are a few technologies I've been working with recently:

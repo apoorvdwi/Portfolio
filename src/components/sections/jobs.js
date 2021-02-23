@@ -109,7 +109,7 @@ const StyledHighlight = styled.span`
     top: auto;
     bottom: 0;
     transform: translateX(
-      ${props => (props.activeTabId > 0 ? props.activeTabId * theme.tabWidth : 0)}px
+      ${props => (props.activeTabId > 0 ? props.activeTabId * 2 * theme.tabWidth : 0)}px
     );
     margin-left: 50px;
   `};
