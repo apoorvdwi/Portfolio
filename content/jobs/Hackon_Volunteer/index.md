@@ -4,7 +4,7 @@ title: 'Web Developer'
 company: 'HackOn Foundation'
 location: 'Delhi, India'
 navbar: 'HackOn (Core Team)'
-range: 'January 2021 - Present'
+range: 'January 2021 - May 2021'
 url: 'https://www.linkedin.com/company/hackonhackathon/'
 ---
 

@@ -1,13 +1,13 @@
 ---
 date: '2020-10-26'
-title: 'Web Development Intern'
+title: 'Software Developer Intern'
 company: 'Raahee'
 location: 'Delhi, India'
-navbar: 'Raahee (Internship)'
-range: 'October 2020 - Present'
+navbar: 'Raahee (SDE Intern)'
+range: 'October 2020 - May 2021'
 url: 'https://www.raahee.in/'
 ---
 
-- Worked on moving codebase from HTML, CSS, JS to React.
-- Created a Internal Product for [https://raahee.in](https://raahee.in) and Raahee App.
-- Added Redux, firebase and mailgun integrations to the website.
+- Ported the code base to React with Flux architecture.
+- Developed the Admin panel for verification and moderation.
+- Added Redux, Firebase and Mailgun integrations to the website.
