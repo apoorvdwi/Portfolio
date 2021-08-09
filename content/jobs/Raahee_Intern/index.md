@@ -1,6 +1,6 @@
 ---
 date: '2020-10-26'
-title: 'Software Developer Intern'
+title: 'Software Developement Intern'
 company: 'Raahee'
 location: 'Delhi, India'
 navbar: 'Raahee (SDE Intern)'

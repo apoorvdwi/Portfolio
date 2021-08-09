@@ -1,5 +1,5 @@
 ---
-date: '2020-06-10'
+date: '2020-08-30'
 title: 'GAB Probability'
 github: 'https://github.com/apoorvdwi/gab-probability'
 external: 'https://pypi.org/project/gab-probability/'
