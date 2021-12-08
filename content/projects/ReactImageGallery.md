@@ -1,5 +1,5 @@
 ---
-date: '2021-02-20'
+date: '2020-12-11'
 title: 'React Image Gallery'
 github: 'https://github.com/apoorvdwi/ReactImageGallery'
 external: 'https://reactimagegallerysearch.netlify.app/'

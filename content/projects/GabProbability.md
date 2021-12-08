@@ -7,7 +7,7 @@ tech:
   - Python
   - Matplotlib
 company: 'MAIT'
-showInProjects: true
+showInProjects: false
 ---
 
 Source Code of Gab-Probability. A python package for analyzing gaussian and binomial distribution.
