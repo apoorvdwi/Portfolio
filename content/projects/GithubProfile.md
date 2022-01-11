@@ -8,7 +8,7 @@ tech:
   - Context API
   - Firebase-Auth
 company: 'MAIT'
-showInProjects: false
+showInProjects: true
 ---
 
 Github Profile is app created using react in which you can search for any github user and view the stats.

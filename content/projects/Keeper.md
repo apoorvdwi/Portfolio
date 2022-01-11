@@ -7,7 +7,7 @@ tech:
   - React
   - Material UI
 company: 'MAIT'
-showInProjects: true
+showInProjects: false
 ---
 
 A basic notes keeping app similiar to google keeps made using React and MaterialUI.

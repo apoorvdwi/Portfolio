@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Apoorv Dwivedi | Web Developer',
+  siteTitle: 'Apoorv Dwivedi | Software Engineer',
   siteDescription:
     'Apoorv Dwivedi is a sophomore from Maharaja Agrasen Institute of Technology who specializes in full stack web development.',
   siteKeywords:
@@ -27,7 +27,7 @@ module.exports = {
     },
     {
       name: 'Codechef',
-      url: 'https://www.codechef.com/users/apoorvdwi2001',
+      url: 'https://leetcode.com/apoorvd14/',
     },
     {
       name: 'Blog',
