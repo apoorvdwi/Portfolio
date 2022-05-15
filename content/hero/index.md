@@ -6,4 +6,4 @@ showInProjects: false
 buttonText: 'Get In Touch'
 ---
 
-Always on the lookout to learn new technologies and skills. A passionate engineering undergraduate with undying attachment to technology and a skilled Software engineer with main area of expertise in web development.
+Always on the lookout to learn new technologies and skills. A passionate engineering undergraduate with undying attachment to technology and a skilled Software engineer with expertise in Full-Stack Web Engineering.
