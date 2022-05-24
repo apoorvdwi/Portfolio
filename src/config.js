@@ -22,16 +22,16 @@ module.exports = {
       url: 'https://www.linkedin.com/in/apoorvdwi/',
     },
     {
+      name: 'Twitter',
+      url: 'https://twitter.com/Apoorvdwi',
+    },
+    {
       name: 'Instagram',
       url: 'https://www.instagram.com/apoorv_dwi2506',
     },
     {
       name: 'Codechef',
       url: 'https://leetcode.com/apoorvd14/',
-    },
-    {
-      name: 'Blog',
-      url: 'https://www.geeksforgeeks.org/todo-list-cli-application-using-node-js/',
     },
   ],
 
