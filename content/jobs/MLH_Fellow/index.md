@@ -4,7 +4,7 @@ title: 'MLH Fellow'
 company: 'Solana Labs'
 location: 'Delhi, India'
 navbar: 'Solana Labs (MLH Fellow)'
-range: 'May 2022 - Current'
+range: 'May 2022 - August 2022'
 url: 'https://solanalabs.com/'
 ---
 

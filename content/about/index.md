@@ -15,10 +15,12 @@ skills:
   - NuxtJS
 ---
 
-Hello! I'm Apoorv, a Pre-Final year CSE Undergraduate from MAIT, Delhi.
+Hello! I'm Apoorv, a Final year CSE Undergraduate from MAIT, Delhi.
 
 I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between.
 
-I'm a MLH Fellow Summer '22 @ [Solana Labs](https://solana.com/) working with [Metaplex](https://www.metaplex.com/) under Solana Ecosystem. I have a rich experience of working with multiple companies which includes [Symbl.ai](https://symbl.ai/) where I worked as Software Engineering Intern as a part of GitHub Externship '22, [Intervue](https://intervue.io) where I worked as Software Engineering Intern and [Raahee](https://raahee.in/) where I worked as Software Development Intern.
+I was a MLH Fellow for Summer '22 @ [Solana Labs](https://solana.com/) where I worked with [Metaplex](https://www.metaplex.com/) under Solana Ecosystem. I was also a GitHub Extern for Winter '22 where I worked with [Symbl.ai](https://symbl.ai/) as a Software Engineering Intern. Prior to this I worked with [Intervue](https://intervue.io) as Software Engineering Intern and [Raahee](https://raahee.in/) as Software Development Intern.
+
+Me and my team Nocturnal Coders have won Smart India Hackathon 2022 Software Edition recently.
 
 Here are a few technologies I've been working with recently:
