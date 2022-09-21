@@ -8,6 +8,6 @@ range: 'May 2022 - August 2022'
 url: 'https://solanalabs.com/'
 ---
 
-- Shortlisted for MLH Fellowship Summer '22 under Solana Labs. I'm working with Metaplex organization as a part of it.
-- Updated Metaplex SDK in React CRA5 and Vite starter guides.
-- Developed example for how to simulate NFT pagination using Metaplex SDK since Solana JSON RPC does not support pagination natively.
+- Worked with DevEx Team of Metaplex to add features in JavaScript SDK and created examples and starter guides for the SDK.
+- Worked with Mobile Team of Metaplex and bridged the Android SDK for React Native by using Native Modules.
+- Developed a Sample App to find and display all NFTs for a public key in React Native using bridged React Native SDK.

@@ -7,7 +7,7 @@ tech:
   - React
   - Unsplash API
 company: 'MAIT'
-showInProjects: true
+showInProjects: false
 ---
 
 React App that fetches image data from unsplash about the searched thing and displays all the images in beautiful layout.

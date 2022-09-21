@@ -8,7 +8,7 @@ tech:
   - Redux
   - Firebase
 company: 'MAIT'
-showInProjects: false
+showInProjects: true
 ---
 
-A Ecommerce clothing website made using react and features like redux and firebase for authentication. The project is still under development for features like responsive design, pwa and alot more.
+A Ecommerce clothing website made using react and features like redux and firebase for authentication.
