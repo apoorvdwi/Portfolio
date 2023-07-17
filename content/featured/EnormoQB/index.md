@@ -3,7 +3,6 @@ date: '6'
 title: 'EnormoQB'
 coverImage: './project.png'
 github: 'https://github.com/EnormoQB'
-external: 'https://enormoqb.tech/'
 tech:
   - React
   - Node
