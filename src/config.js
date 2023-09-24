@@ -29,10 +29,6 @@ module.exports = {
       name: 'Instagram',
       url: 'https://www.instagram.com/apoorv_dwi2506',
     },
-    {
-      name: 'Codechef',
-      url: 'https://leetcode.com/apoorvd14/',
-    },
   ],
 
   navLinks: [
