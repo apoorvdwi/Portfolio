@@ -1,13 +1,13 @@
 ---
-date: '2020-12-14'
-title: 'HackThisFall 2.0'
-github: 'https://github.com/hack-this-fall/HackThisFall-2021'
-external: 'https://hackthisfall.tech/'
+date: '2023-12-14'
+title: 'HackThisFall 4.0'
+github: 'https://github.com/hackthisfall/Hack-This-Fall-4'
+external: 'https://s4.hackthisfall.tech/'
 tech:
-  - Nuxt
+  - NextJS
   - Vercel
 company: 'Hack This Fall'
 showInProjects: true
 ---
 
-Official Website for HackThisFall 2.0 built using nuxt.js.
+Official Website for HackThisFall 2024 built using NextJS.

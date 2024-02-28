@@ -1,7 +1,7 @@
 module.exports = {
   siteTitle: 'Apoorv Dwivedi | Software Engineer',
   siteDescription:
-    'Apoorv Dwivedi is a pre-final from Maharaja Agrasen Institute of Technology who specializes in full stack web development.',
+    'Apoorv Dwivedi is a full-time software engineer at Skyflow specializing in full stack development.',
   siteKeywords:
     'Apoorv Dwivedi, Apoorv, Dwivedi, apoorv-dwivedi, software engineer, web developer, mait',
   siteUrl: 'https://apoorvdwivedi.live',

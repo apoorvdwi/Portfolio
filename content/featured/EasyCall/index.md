@@ -1,16 +1,15 @@
 ---
-date: '5'
-title: 'EasyCall'
+date: '7'
+title: 'Spam Check'
 coverImage: './project.png'
-github: 'https://github.com/apoorvdwi/EasyCall'
-external: 'https://easycall.vercel.app/'
+github: 'https://github.com/apoorvdwi/spam-check'
+external: 'https://github.com/marketplace/actions/spam-check'
 tech:
-  - React
-  - Node
-  - Firebase
-  - Sockets
-  - Twilio
+  - GitHub Actions
+  - OpenAI
+  - LangChain
+  - Python
 showInProjects: true
 ---
 
-EasyCall is a web app for meet, chat and collaboration. It has audio/video communication, screen sharing functionality and a fully integrated excalidraw whiteboard.
+Spam Check, is designed to help maintainers identify and filter out spam pull requests (PRs) in their repositories. By integrating this action into their GitHub workflows, maintainers can automatically flag potential spam, allowing them to focus on legitimate contributions.

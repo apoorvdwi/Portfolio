@@ -1,12 +1,12 @@
 ---
 date: '2021-04-01'
-title: 'Technical Team Lead'
+title: 'Tech'
 company: 'Hack This Fall'
 location: 'Delhi, India'
-navbar: 'HackThisFall (Tech Lead)'
+navbar: 'HackThisFall (Core Team)'
 range: 'June 2021 - Present'
 url: 'https://hackthisfall.tech/'
 ---
 
-- I was a part of HackThisFall 2.0 Tech Team. My role involved creating [official website](https://hackthisfall.tech/) for HackThisFall 2.0 using Nuxt.js according to prepared UI/UX.
-- Currently, I am leading the Tech Team for HackThisFall 3.0 where my role involves managing all the technical requirements including website, internal apps and anything that involves tech.
+- I've been part of HackThisFall since Season 2. My role over the past years involved building the official website, community website and providing support for tech.
+- For Season 4, we built the [website](https://s4.hackthisfall.tech) and a custom tweet scraper to scrape the tweets that were done during the hackathon and show them in realtime over the main screen.
