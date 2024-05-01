@@ -1,3 +1,6 @@
 {
-  "extends": "@upstatement/eslint-config/react"
+  "extends": "@upstatement/eslint-config/react",
+  "rules": {
+    "jsx-a11y/html-has-lang": "off"
+  }
 }
