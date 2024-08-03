@@ -13,6 +13,7 @@ module.exports = {
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sitemap`,
     `gatsby-plugin-robots-txt`,
+    `gatsby-plugin-remove-serviceworker`,
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
@@ -25,7 +26,6 @@ module.exports = {
         icon: 'src/images/logo.png',
       },
     },
-    `gatsby-plugin-offline`,
     {
       resolve: 'gatsby-source-filesystem',
       options: {
