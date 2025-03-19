@@ -27,7 +27,7 @@ module.exports = {
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/apoorv_dwi2506',
+      url: 'https://www.instagram.com/apoorvdwi',
     },
   ],
 
