@@ -1,6 +1,6 @@
 ---
 title: 'About Me'
-avatar: './profile.jpg'
+avatar: './profile.png'
 showInProjects: false
 skills:
   - JavaScript
